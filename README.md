@@ -4,6 +4,4 @@ Alunos :
 
 -Stephany Barbosa 202502680678
 
--Marcus V Vertéria 202403678748
-
 -Denilson Silva Canto 202203871315
